@@ -1,0 +1,1 @@
+const OPEN_AI_APIKEY = "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";
